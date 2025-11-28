@@ -1,0 +1,55 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  background-color: #2523e9;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.nav {
+  background-color: #10b981;
+  padding: 20px;
+  text-align: center;
+}
+
+.hero {
+  background-image: linear-gradient(to bottom, #2523e9, #10b981);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.card {
+  background-color: #fff;
+  padding: 20px;
+  border: 1px solid #ddd;
+  margin: 20px;
+}
+
+.button {
+  background-color: #2523e9;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #10b981;
+}
+
+.footer {
+  background-color: #2523e9;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  clear: both;
+}
