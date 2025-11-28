@@ -1,0 +1,1 @@
+{"name": "consult-pro", "version": "1.0.0", "dependencies": {"react": "^18.2.0", "react-dom": "^18.2.0", "react-router-dom": "^6.3.0", "vite": "^3.0.0"}, "scripts": {"dev": "vite", "build": "vite build", "serve": "vite serve"}}
